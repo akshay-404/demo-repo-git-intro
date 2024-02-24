@@ -11,3 +11,5 @@ Committed - JetBrains IDE - PyCharm
 ## IDE COMMIT
 
 Commit - VSCosde - 234823022024
+
+Branched as main --> main + offline
