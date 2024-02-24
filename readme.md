@@ -1,13 +1,8 @@
-# README DEMO
+# README FOR OFFLINE REPO
 
-Description
-
-Commit - 01.52.23.02.2024
-
-Committed - VS Code
-
-Committed - JetBrains IDE - PyCharm
-
-## IDE COMMIT
-
-Commit - VSCosde - 234823022024
+Local development:
+    1. Made offline repo - repo-offline
+    2. Branched to server-1-vscode
+       - made python matplotlib.pyplot.imshow() file
+    3. Message for conflict
+    4. Merge conflict fixed ??
